@@ -1,6 +1,6 @@
 # Message-mixer
 Codecademy javascript project
-To run this program Type the following node commands based on the files for this project;
+To run this program Type the following node commands based on the files for this project:
 $ node super-encoder.js encode
 #### User prompt: what message do you want to encode ####
 Then you type your message
